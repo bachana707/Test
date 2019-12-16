@@ -1,25 +1,25 @@
 {
   "Math": [
     {
-      "text": "ROmel wels moxda didgoris brdzola?",
-      "answer1": "number 1",
-      "answer2": "number 2",
-      "answer3": "number 3",
-      "answer4": "number 4"
-    },
-    {
-      "text": "ROmel wels moxda basianis brdzola?",
-      "answer1": "number 12",
-      "answer2": "number 23",
+      "text": "ramdenia 5+5?",
+      "answer1": "number 10",
+      "answer2": "number 25",
       "answer3": "number 34",
       "answer4": "number 45"
     },
+    {
+      "text": "ramdenia 15-12?",
+      "answer1": "number 3",
+      "answer2": "number 34",
+      "answer3": "number 3434",
+      "answer4": "number 2"
+    },
      {
-      "text": "Bachana klea?",
-      "answer1": "ki",
-      "answer2": "ki",
-      "answer3": "ki",
-      "answer4": "ki"
+      "text": "romelia sferosmoculobis gamosatvleli formula?",
+      "answer1": "4/3pr^3",
+      "answer2": "17p",
+      "answer3": "2/3d",
+      "answer4": "456x"
     }
   ],
   "Geo": [
@@ -36,7 +36,15 @@
       "answer2": "number 23",
       "answer3": "number 34",
       "answer4": "number 45"
+    },
+        {
+      "text": "vin daaarsa gelatis akademia?",
+      "answer1": "davit agmashenebli",
+      "answer2": "sandro magradze",
+      "answer3": "avtandilshoshiashvili",
+      "answer4": "farsman sparsi"
     }
+    
   ],
   "collectionName":  "samples"
 }
