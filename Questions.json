@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "text": "ROmel wels moxda didgoris brdzola?",
+      "answer1": "number 1",
+      "answer2": "number 2",
+      "answer3": "number 3",
+      "answer4": "number 4"
+    },
+    {
+      "text": "ROmel wels moxda basianis brdzola?",
+      "answer1": "number 12",
+      "answer2": "number 23",
+      "answer3": "number 34",
+      "answer4": "number 45"
+    }
+  ],
+  "collectionName":  "samples"
+}
