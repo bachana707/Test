@@ -13,9 +13,16 @@
       "answer2": "number 23",
       "answer3": "number 34",
       "answer4": "number 45"
+    },
+     {
+      "text": "Bachana klea?",
+      "answer1": "ki",
+      "answer2": "ki",
+      "answer3": "ki",
+      "answer4": "ki"
     }
   ],
-  "GEO": [
+  "Geo": [
     {
       "text": "ROmel wels moxda didgoris brdzola?",
       "answer1": "number 1",
