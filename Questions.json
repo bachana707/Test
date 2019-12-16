@@ -15,7 +15,6 @@
       "answer4": "number 45"
     }
   ],
-  {
   "collectionName":  "samples"
   "Geo": [
     {
@@ -32,5 +31,5 @@
       "answer3": "number 34",
       "answer4": "number 45"
     }
-  ],
+  ]
 }
