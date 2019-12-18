@@ -1,68 +1,145 @@
 {
-  "Math": [
-    {
-      "text": "ramdenia 5+5?",
-      "answers": ["number 10", "number 25","number 34", "number 45"]
-    },
-
-    {
-      "text": "ramdenia 15-12?",
-      "answers": ["number 3", "number 34", "number 3434", "number 2"]
-    },
-
-    {
-      "text": "romelia sferos moculobis gamosatvleli formula?",
-      "answers":  ["4/3pr^3", "17p", "2/3d", "456x"]
-	},
-
-    {
-      "text": "romelia wris fartobis gamosatvleli formula?",
-      "answers": ["pr^2", "26", "áƒáƒ¡áƒ“4", "1"]
-	},
-
-    {
-      "text": "romeli metia 5*7 tu 7*5?",
-      "answers": ["tolia", "1" ,"2", "arcerti"]
-	},
-
-    {
-      "text": "kitxva 7?",
-      "answers": ["pasuxi1", "pasuxi2", "pasuxi3", "pasuxi4"]
-	}
-
-  ],
-  "Geo": [
-    {
-      "text": "ROmel wels moxda didgoris brdzola?",
-      "answers": ["number 1", "number 2", "number 3","number 4"]
-	},
-
-    {
-      "text": "ROmel wels moxda basianis brdzola?",
-      "answers": ["number 12", "number 23", "number 34", "number 45"]
-    },
-
-    {
-      "text": "vin daaarsa gelatis akademia?",
-      "answers": ["davit agmashenebli", "sandro magradze", "avtandilshoshiashvili", "farsman sparsi"]
-	},
-
-    {
-      "text": "vin mokla dzera?",
-      "answers": ["shotam", "nugzarim", "nanukam", "ar momkvdara"]
-	},
-
-    {
-      "text": "vin dagupa saqartvelo?",
-      "answers": ["edikam", "edikam", "edikam", "edikam" ]
-	},
-
-    {
-      "text": "vin gagvataxsira?",
-      "answers": ["iman", "aman", "imat", "imebma" ]
-	}
-
-  ],
-
-  "collectionName":  "samples"
+   "collectionName":"samples",
+   "Math":[
+      {
+         "difficultyIndex":0,
+         "questions":[
+            {
+               "text":"ramdenia 5+5?",
+               "answers":[
+                  "number 10",
+                  "number 25",
+                  "number 34",
+                  "number 45"
+               ]
+            },
+            {
+               "text":"ramdenia 15-12?",
+               "answers":[
+                  "number 3",
+                  "number 34",
+                  "number 3434",
+                  "number 2"
+               ]
+            }
+         ]
+      },
+      {
+         "difficultyIndex":1,
+         "questions":[
+            {
+               "text":"romelia sferos moculobis gamosatvleli formula?",
+               "answers":[
+                  "4/3pr^3",
+                  "17p",
+                  "2/3d",
+                  "456x"
+               ]
+            },
+            {
+               "text":"romelia wris fartobis gamosatvleli formula?",
+               "answers":[
+                  "pr^2",
+                  "26",
+                  "áƒáƒ¡áƒ“4",
+                  "1"
+               ]
+            }
+         ]
+      },
+      {
+         "difficultyIndex":2,
+         "questions":[
+            {
+               "text":"romeli metia 5*7 tu 7*5?",
+               "answers":[
+                  "tolia",
+                  "1",
+                  "2",
+                  "arcerti"
+               ]
+            },
+            {
+               "text":"kitxva 7?",
+               "answers":[
+                  "pasuxi1",
+                  "pasuxi2",
+                  "pasuxi3",
+                  "pasuxi4"
+               ]
+            }
+         ]
+      }
+   ],
+   "Geo":[
+      {
+         "difficultyIndex":0,
+         "questions":[
+            {
+               "text":"ROmel wels moxda didgoris brdzola?",
+               "answers":[
+                  "number 1",
+                  "number 2",
+                  "number 3",
+                  "number 4"
+               ]
+            },
+            {
+               "text":"ROmel wels moxda basianis brdzola?",
+               "answers":[
+                  "number 12",
+                  "number 23",
+                  "number 34",
+                  "number 45"
+               ]
+            }
+         ]
+      },
+      {
+         "difficultyIndex":1,
+         "questions":[
+            {
+               "text":"vin daaarsa gelatis akademia?",
+               "answers":[
+                  "davit agmashenebli",
+                  "sandro magradze",
+                  "avtandilshoshiashvili",
+                  "farsman sparsi"
+               ]
+            },
+            {
+               "text":"vin mokla dzera?",
+               "answers":[
+                  "shotam",
+                  "nugzarim",
+                  "nanukam",
+                  "ar momkvdara"
+               ]
+            }
+         ]
+      },
+      {
+         "difficultyIndex":2,
+         "questions":[
+            {
+               "text":"vin dagupa saqartvelo?",
+               "answers":[
+                  "edikam",
+                  "edikam",
+                  "edikam",
+                  "edikam"
+               ]
+            },
+            {
+               "text":"vin gagvataxsira?",
+               "answers":[
+                  "iman",
+                  "aman",
+                  "imat",
+                  "imebma"
+               ]
+            }
+         ]
+      }
+   ]
 }
