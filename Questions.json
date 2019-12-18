@@ -2,93 +2,67 @@
   "Math": [
     {
       "text": "ramdenia 5+5?",
-      "answer1": "number 10",
-      "answer2": "number 25",
-      "answer3": "number 34",
-      "answer4": "number 45"
+      "answers": ["number 10", "number 25","number 34", "number 45"]
     },
+
     {
       "text": "ramdenia 15-12?",
-      "answer1": "number 3",
-      "answer2": "number 34",
-      "answer3": "number 3434",
-      "answer4": "number 2"
+      "answers": ["number 3", "number 34", "number 3434", "number 2"]
     },
+
     {
       "text": "romelia sferos moculobis gamosatvleli formula?",
-      "answer1": "4/3pr^3",
-      "answer2": "17p",
-      "answer3": "2/3d",
-      "answer4": "456x"
-    },
+      "answers":  ["4/3pr^3", "17p", "2/3d", "456x"]
+	},
+
     {
       "text": "romelia wris fartobis gamosatvleli formula?",
-      "answer1": "pr^2",
-      "answer2": "26",
-      "answer3": "ასდ4",
-      "answer4": "1"
-    },
+      "answers": ["pr^2", "26", "áƒáƒ¡áƒ“4", "1"]
+	},
+
     {
       "text": "romeli metia 5*7 tu 7*5?",
-      "answer1": "tolia",
-      "answer2": "1",
-      "answer3": "2",
-      "answer4": "arcerti"
-    },
+      "answers": ["tolia", "1" ,"2", "arcerti"]
+	},
+
     {
       "text": "kitxva 7?",
-      "answer1": "pasuxi1",
-      "answer2": "pasuxi2",
-      "answer3": "pasuxi3",
-      "answer4": "pasuxi4"
-    }
+      "answers": ["pasuxi1", "pasuxi2", "pasuxi3", "pasuxi4"]
+	}
 
   ],
   "Geo": [
     {
       "text": "ROmel wels moxda didgoris brdzola?",
-      "answer1": "number 1",
-      "answer2": "number 2",
-      "answer3": "number 3",
-      "answer4": "number 4"
-    },
+      "answers": ["number 1", "number 2", "number 3","number 4"]
+	},
+
     {
       "text": "ROmel wels moxda basianis brdzola?",
-      "answer1": "number 12",
-      "answer2": "number 23",
-      "answer3": "number 34",
-      "answer4": "number 45"
+      "answers": ["number 12", "number 23", "number 34", "number 45"]
     },
+
     {
       "text": "vin daaarsa gelatis akademia?",
-      "answer1": "davit agmashenebli",
-      "answer2": "sandro magradze",
-      "answer3": "avtandilshoshiashvili",
-      "answer4": "farsman sparsi"
-    },
+      "answers": ["davit agmashenebli", "sandro magradze", "avtandilshoshiashvili", "farsman sparsi"]
+	},
+
     {
       "text": "vin mokla dzera?",
-      "answer1": "shotam",
-      "answer2": "nugzarim",
-      "answer3": "nanukam",
-      "answer4": "ar momkvdara"
-    },
+      "answers": ["shotam", "nugzarim", "nanukam", "ar momkvdara"]
+	},
+
     {
       "text": "vin dagupa saqartvelo?",
-      "answer1": "edikam",
-      "answer2": "edikam",
-      "answer3": "edikam",
-      "answer4": "edikam"
-    },
+      "answers": ["edikam", "edikam", "edikam", "edikam" ]
+	},
+
     {
       "text": "vin gagvataxsira?",
-      "answer1": "iman",
-      "answer2": "aman",
-      "answer3": "imat",
-      "answer4": "imebma"
-    }
-
+      "answers": ["iman", "aman", "imat", "imebma" ]
+	}
 
   ],
+
   "collectionName":  "samples"
 }
